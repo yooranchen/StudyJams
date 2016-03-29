@@ -10,7 +10,7 @@
   * `419566033`,资讯群,这个群是官方的咨询群
 2.  论坛群 `StudyJams - Nutella`
   * 查找方法: 论坛搜索 ,输入 `StudyJams - Nutella`
-
+  * [群组地址](http://www.studyjamscn.com/group-206-1.html)
 ---
 
 ##  怎么进行
@@ -20,13 +20,14 @@
 ---
 
 ##  相关连接
-1.  [报名地址](https://www.gdgdocs.org/forms/d/1gt2biWEv-DJdAcUcKHIDbR4ABHChUjdBTmio0Tig18s/viewform?entry.1540362794=G-101-165),还没注册论坛的,可以在这里进行报名后
-2.  [课题笔记提交地址](http://www.studyjamscn.com/forum.php?gid=1),地址下包含各个课程的连接,对应课程进入对应子模块`发布新帖`,就可以进行笔记提交了
+1.  [论坛地址](http://www.studyjamscn.com/)
+2.  [报名地址](https://www.gdgdocs.org/forms/d/1gt2biWEv-DJdAcUcKHIDbR4ABHChUjdBTmio0Tig18s/viewform?entry.1540362794=G-101-165),还没注册论坛的,可以在这里进行报名后
+3.  [课题笔记提交地址](http://www.studyjamscn.com/forum.php?gid=1),地址下包含各个课程的连接,对应课程进入对应子模块`发布新帖`,就可以进行笔记提交了
 
 ---
 ##  课程列表
 
-*  [1A. Building Layouts - 上]()
+*  [1A. Building Layouts - 上](https://github.com/yooranchen/StudyJams/blob/master/lesson1.md)
 *  [1B. Building Layouts - 下]()
 *  [PS1. 动手实践课1+咖啡问答]()
 *  [2A. Making an App Interactive - 上]()
@@ -37,4 +38,7 @@
 
 ---
 
-##  成员列表 (待完善)
+##  成员列表
+  * yooranchen,组长
+  * JNBINW
+  * nanjins
