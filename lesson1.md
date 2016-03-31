@@ -9,4 +9,5 @@
   4.  [示例](http://www.studyjamscn.com/thread-1173-1-1.html),这是论坛上找的,别的小组的记录
 
 ##  笔记地址
-  *
+*	Jachin: <http://www.studyjamscn.com/thread-1209-1-1.html>
+*	_穆 : <http://www.studyjamscn.com/forum.php?mod=viewthread&tid=1321&page=1&extra=#pid10122>
