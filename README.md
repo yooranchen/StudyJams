@@ -22,8 +22,11 @@
 
 ##  相关连接
 1.  [论坛地址](http://www.studyjamscn.com/)
-2.  [报名地址](https://www.gdgdocs.org/forms/d/1gt2biWEv-DJdAcUcKHIDbR4ABHChUjdBTmio0Tig18s/viewform?entry.1540362794=G-101-165),还没注册论坛的,可以在这里进行报名后
-3.  [课题笔记提交地址](http://www.studyjamscn.com/forum.php?gid=1),地址下包含各个课程的连接,对应课程进入对应子模块`发布新帖`,就可以进行笔记提交了
+2.  [活动介绍-活动流程-奖励](http://www.studyjamscn.com/thread-6-1-1.html),Study Jams 是一个学习 Google 在线课程的活动。该活动由学员自发组建课程学习小组，旨在带领小组成员入门 Android 开发，最终将 Android App 上载至 Google Play 并与他人分享自己的学习历程。一个成功的 Study Jam 活动离不开所有参与者的兴趣、热情和执行力。每个人都可以成为 Study Jam 活动的发起人，发起人需要找到一位有开发经验的主讲人，共同组建一个不少于 5 人的线下团队或者10人的线上团队，这样就可以开启探险的历程了！
+3.  [报名地址](https://www.gdgdocs.org/forms/d/1gt2biWEv-DJdAcUcKHIDbR4ABHChUjdBTmio0Tig18s/viewform?entry.1540362794=G-101-165),还没注册论坛的,可以在这里进行报名后
+4.  [课题笔记提交地址](http://www.studyjamscn.com/forum.php?gid=1),地址下包含各个课程的连接,对应课程进入对应子模块`发布新帖`,就可以进行笔记提交了
+
+
 
 ---
 ##  课程列表
@@ -50,3 +53,4 @@
   * _穆
   * Vika
   * 沉默
+  * 哗哗的人
