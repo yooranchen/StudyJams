@@ -43,14 +43,16 @@
 ---
 
 ##  成员列表
-  * yooranchen,组长
-  * JNBINW
-  * nanjins
-  * xxershao
-  * 15294502173
-  * Jachin
-  * paixiu
-  * _穆
-  * Vika
-  * 沉默
-  * 哗哗的人
+  * [yooranchen](http://www.studyjamscn.com/home.php?mod=space&uid=1696)
+  * [JNBINW](http://www.studyjamscn.com/space-uid-1884.html)
+  * [nanjins](http://www.studyjamscn.com/space-uid-1877.html)
+  * [xxershao](http://www.studyjamscn.com/space-uid-1871.html)
+  * [15294502173](http://www.studyjamscn.com/space-uid-1997.html)
+  * [Jachin](http://www.studyjamscn.com/space-uid-1900.html)
+  * [paixiu](http://www.studyjamscn.com/space-uid-2026.html)
+  * [ _穆](http://www.studyjamscn.com/space-uid-1879.html)
+  * [Vika](http://www.studyjamscn.com/space-uid-1921.html)
+  * [沉默](http://www.studyjamscn.com/space-uid-1922.html)
+  * [哗哗的人](http://www.studyjamscn.com/?1713)
+  * [Young_cyy](http://www.studyjamscn.com/?1872)
+  * [冉笑](http://www.studyjamscn.com/?1867)

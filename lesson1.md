@@ -11,3 +11,8 @@
 ##  笔记地址
 *	Jachin: <http://www.studyjamscn.com/thread-1209-1-1.html>
 *	_穆 : <http://www.studyjamscn.com/forum.php?mod=viewthread&tid=1321&page=1&extra=#pid10122>
+*	15294502173: <http://www.studyjamscn.com/thread-1703-1-1.html>
+* 冉笑: <http://www.studyjamscn.com/thread-1684-1-1.html>
+* 沉默:<http://www.studyjamscn.com/thread-1573-1-1.html>
+* nanjins: <http://www.studyjamscn.com/thread-1921-1-1.html>
+* zhangzhang: <http://www.studyjamscn.com/forum.php?mod=viewthread&tid=1906&fromuid=1903>
