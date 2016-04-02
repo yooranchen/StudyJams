@@ -9,10 +9,11 @@
   4.  [示例](http://www.studyjamscn.com/thread-1173-1-1.html),这是论坛上找的,别的小组的记录
 
 ##  笔记地址
-*	Jachin: <http://www.studyjamscn.com/thread-1209-1-1.html>
-*	_穆 : <http://www.studyjamscn.com/forum.php?mod=viewthread&tid=1321&page=1&extra=#pid10122>
-*	15294502173: <http://www.studyjamscn.com/thread-1703-1-1.html>
-* 冉笑: <http://www.studyjamscn.com/thread-1684-1-1.html>
-* 沉默:<http://www.studyjamscn.com/thread-1573-1-1.html>
-* nanjins: <http://www.studyjamscn.com/thread-1921-1-1.html>
-* zhangzhang: <http://www.studyjamscn.com/forum.php?mod=viewthread&tid=1906&fromuid=1903>
+1.  Jachin: <http://www.studyjamscn.com/thread-1209-1-1.html>
+2.  _穆 : <http://www.studyjamscn.com/forum.php?mod=viewthread&tid=1321&page=1&extra=#pid10122>
+3.  15294502173: <http://www.studyjamscn.com/thread-1703-1-1.html>
+4.  冉笑: <http://www.studyjamscn.com/thread-1684-1-1.html>
+5.  沉默:<http://www.studyjamscn.com/thread-1573-1-1.html>
+6.  nanjins: <http://www.studyjamscn.com/thread-1921-1-1.html>
+7.  zhangzhang: <http://www.studyjamscn.com/forum.php?mod=viewthread&tid=1906&fromuid=1903>
+8.  yooranchen : <http://www.studyjamscn.com/thread-2222-1-1.html>
