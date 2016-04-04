@@ -4,6 +4,8 @@
   * 课程视频用的是优酷视频,建议将视频下载下来看
 
 ---
+##  当前进度:`1B. Building Layouts - 下`
+---
 ##  相关群组
 1.  QQ群
   * `107931488`,这个群是我们小组的QQ群,以后有什么问题大家可以在里面问,优惠尽力帮大家解答
@@ -40,7 +42,7 @@
 ##  课程列表
 
 *  [1A. Building Layouts - 上](https://github.com/yooranchen/StudyJams/blob/master/lesson1.md)
-*  [1B. Building Layouts - 下]()
+*  [1B. Building Layouts - 下](https://github.com/yooranchen/StudyJams/blob/master/lesson2.md)
 *  [PS1. 动手实践课1+咖啡问答]()
 *  [2A. Making an App Interactive - 上]()
 *  [2B. Making an App Interactive - 下]()

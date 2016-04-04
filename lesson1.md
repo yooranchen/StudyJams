@@ -1,6 +1,8 @@
 # 1A. Building Layouts - 上 课程介绍
 
 ---
+![Alt text](/image/cpright.png)
+---
 ##  相关连接
 
   1.  [课程连接](<http://www.studyjamscn.com/thread-25-1-1.html>) ,这个连接是官方下载资料的网址,里面有课程
