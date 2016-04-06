@@ -12,3 +12,5 @@
   4.  [示例](http://www.studyjamscn.com/thread-1173-1-1.html),这是论坛上找的,别的小组的记录
 
 ##  笔记地址
+1.	JNBINW : <http://www.studyjamscn.com/thread-3079-1-1.html>
+2.	Jachin : <http://www.studyjamscn.com/thread-3152-1-1.html>
