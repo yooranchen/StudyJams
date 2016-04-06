@@ -5,7 +5,7 @@
 
 ---
 ##  当前进度:`1B. Building Layouts - 下`,
-##  当前笔记数: `0`
+##  当前笔记数: `2`
 ---
 ##  相关群组
 1.  QQ群
@@ -67,3 +67,5 @@
   * [哗哗的人](http://www.studyjamscn.com/?1713)
   * [Young_cyy](http://www.studyjamscn.com/?1872)
   * [冉笑](http://www.studyjamscn.com/?1867)
+  * [黄立卓](http://www.studyjamscn.com/space-uid-1883.html)
+  * [阳光正好](http://www.studyjamscn.com/space-uid-1931.html)
