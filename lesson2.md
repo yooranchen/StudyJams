@@ -16,3 +16,5 @@
 2.	Jachin : <http://www.studyjamscn.com/thread-3152-1-1.html>
 3.  15294502173:<http://www.studyjamscn.com/thread-3852-1-1.html>
 4.  冉笑 : <http://www.studyjamscn.com/forum.php?mod=viewthread&tid=3724&page=1&extra=#pid166544>
+5.  nanjins: <http://www.studyjamscn.com/thread-4688-1-1.html>
+6.  黄立卓: <http://www.studyjamscn.com/thread-4834-1-1.html>
