@@ -4,8 +4,8 @@
   * 课程视频用的是优酷视频,建议将视频下载下来看
 
 ---
-##  当前进度:`1B. Building Layouts - 下`
-##  当前笔记数: `7`
+##  当前进度:`PS1. 动手实践课1+咖啡问答`
+##  当前笔记数: `0`
 ---
 ##  相关群组
 1.  QQ群
@@ -44,7 +44,7 @@
 
 *  [1A. Building Layouts - 上](https://github.com/yooranchen/StudyJams/blob/master/lesson1.md)
 *  [1B. Building Layouts - 下](https://github.com/yooranchen/StudyJams/blob/master/lesson2.md)
-*  [PS1. 动手实践课1+咖啡问答]()
+*  [PS1. 动手实践课1+咖啡问答](https://github.com/yooranchen/StudyJams/blob/master/lesson3.md)
 *  [2A. Making an App Interactive - 上]()
 *  [2B. Making an App Interactive - 下]()
 *  [PS2. 动手实践课2]()
