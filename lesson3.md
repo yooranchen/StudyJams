@@ -12,3 +12,8 @@
   5.  [示例](http://www.studyjamscn.com/forum.php?mod=viewthread&tid=5522&page=1&extra=#pid175726),这是论坛上找的,别的小组的记录
 
 ##  笔记地址
+1.  JNBINW:  <http://www.studyjamscn.com/thread-7740-1-1.html >
+2.  nanjins:  <http://www.studyjamscn.com/thread-7674-1-1.html>
+3.  冉笑: <http://www.studyjamscn.com/forum.php?mod=viewthread&tid=7530&page=1&extra=#pid184957>
+4.  黄立卓: <http://www.studyjamscn.com/thread-8568-1-1.html>
+5.  yooranchen : <http://www.studyjamscn.com/thread-8651-1-1.html>
